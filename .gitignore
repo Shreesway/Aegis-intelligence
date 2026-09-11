@@ -1,0 +1,19 @@
+# API Keys
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Auto-generated charts
+backend/charts/*.png
+
+# Vector DB files
+backend/database/*.sqlite3
+backend/database/*.bin
+
+# Test PDFs and Reports
+backend/reports/*.pdf
+backend/uploads/*.pdf
+
+backend/database/*.bin
