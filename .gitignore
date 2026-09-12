@@ -17,3 +17,5 @@ backend/reports/*.pdf
 backend/uploads/*.pdf
 
 backend/database/*.bin
+*.bin
+progress.md
