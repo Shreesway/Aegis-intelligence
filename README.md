@@ -1,4 +1,4 @@
-# 🛡️ Aegis Intelligence
+# Aegis Intelligence
 
 ### AI-Powered Financial Research & Investment Intelligence Platform
 
@@ -7,8 +7,10 @@ Aegis Intelligence is an AI-powered financial research platform designed to help
 The system combines **Retrieval-Augmented Generation (RAG), Deep Learning, Multi-Agent AI, financial data APIs, semantic search, and explainable analytics** into a unified research pipeline.
 
 ---
+<img width="1920" height="965" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/60f3c804-3df1-4dc2-9792-c6f9a5a3d823" />
+<img width="1920" height="971" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/a7d7589a-e31a-45a6-9115-394fe5ed2718" />
 
-## 🚀 What is Aegis Intelligence?
+##  What is Aegis Intelligence?
 
 Financial research often requires going through large amounts of financial reports, company data, and unstructured documents.
 
